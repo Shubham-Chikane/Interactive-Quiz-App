@@ -10,8 +10,7 @@ Key Features:
 4.Scoring System: Developed a real-time scoring system that calculates and displays the user’s score based on correct answers.
 5.Instant Feedback: Provided immediate feedback on answers, with visual indicators for correct and incorrect responses.
 6.Responsive Design: Ensured the app is fully responsive, offering a consistent experience across desktop and mobile devices.
-
-![Screenshot (560)](https://github.com/Shubham-Chikane/Interactive-Quiz-App/assets/126098454/95c2fd14-8dcd-4304-a1de-97d7c74b4e6b)
 ![Screenshot (558)](https://github.com/Shubham-Chikane/Interactive-Quiz-App/assets/126098454/b31966a4-12fc-4058-8ba6-f61af00739cc)
+![Screenshot (560)](https://github.com/Shubham-Chikane/Interactive-Quiz-App/assets/126098454/95c2fd14-8dcd-4304-a1de-97d7c74b4e6b)
 ![Sc)reenshot (561)](https://github.com/Shubham-Chikane/Interactive-Quiz-App/assets/126098454/e92c8e94-58f4-4a83-88bd-b2c7792a7c36)
 
